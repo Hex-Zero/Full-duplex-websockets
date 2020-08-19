@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fulldupplex", "Fulldupplex\Fulldupplex.csproj", "{6EEF83FB-44A0-4D4D-8236-DF536992BECB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EEF83FB-44A0-4D4D-8236-DF536992BECB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EEF83FB-44A0-4D4D-8236-DF536992BECB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EEF83FB-44A0-4D4D-8236-DF536992BECB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EEF83FB-44A0-4D4D-8236-DF536992BECB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {234FC78F-68F3-4293-BFFE-0CB3CFF1496A}
+	EndGlobalSection
+EndGlobal
